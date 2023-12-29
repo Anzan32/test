@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: AARON
+Build-Jdk: 17.0.5
+Main-Class: fi.vamk.studentid.App
+Created-By: Maven Integration for Eclipse
+
